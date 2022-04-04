@@ -1,4 +1,10 @@
-### Hi there 👋
+# Aibek Sarsembayev - Golang Developer
+
+[![Linkedin Badge](https://img.shields.io/badge/-asarsembayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asarsembayev/)](https://www.linkedin.com/in/asarsembayev/) 
+
+## Welcome to my page!
+
+Page is updating ...
 
 <!--
 **quazar2000/quazar2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
